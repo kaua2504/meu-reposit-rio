@@ -64,3 +64,4 @@ function resetGame() {
 
 // Inicia o jogo quando a página carregar
 window.onload = startGame;
+https://seunome.github.io/jogo-adivinhacao/
